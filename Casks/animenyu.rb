@@ -1,6 +1,6 @@
 cask "animenyu" do
-  version "1.3.0"
-  sha256 "72d96934ff80cdedcaf716439d7eee80eef3a7fff48a8f332548f1117059a2a3"
+  version "1.3.1"
+  sha256 "6f86127d89d4ea0ab33a3e903a5ed5e3a0a1dd8e41a7abf1a52389c2929d8347"
 
   url "https://github.com/lodev09/animenyu/releases/download/v#{version}/AniMenyu-#{version}.dmg"
   name "AniMenyu"
