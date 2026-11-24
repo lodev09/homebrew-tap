@@ -23,6 +23,7 @@ Upgrade with `brew upgrade --cask <cask>`. Uninstall with
 
 | Cask | Description |
 | --- | --- |
+| [`animenyu`](Casks/animenyu.rb) | [AniMenyu](https://github.com/lodev09/animenyu): menu bar app for tracking airing anime on AniList (Apple Silicon, macOS 14+) |
 | [`neotorrent`](Casks/neotorrent.rb) | [NeoTorrent](https://github.com/lodev09/neotorrent): native torrent client (Apple Silicon, macOS 15+) |
 
 ## Adding a cask
